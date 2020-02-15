@@ -1,1 +1,2 @@
-sudo pacman -Rcs breeze firefox gksu gparted gmrun kconfig meld screen sublime-text-dev
+sudo pacman -Rcs breeze firefox gksu gparted gmrun kconfig kcoreaddons kwidgetsaddon smeld screen sublime-text-dev
+
